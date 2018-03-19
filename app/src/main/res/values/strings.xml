@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TVinities</string>
+    <string name="in_production">In production</string>
+    <string name="overview">Overview</string>
+    <string name="image">image</string>
+    <string name="lorem_ipsum_1">Lorem ipsum.</string>
+    <string name="lorem_ipsum_2">Lorem ipsum dolor sit amet.</string>
+    <string name="lorem_ipsum_3">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</string>
+    <string name="similar_shows">Similar shows</string>
+    <string name="error_view_title">An error occurred…</string>
+    <string name="error_view_text">An error occurred while fetching data with the following message:</string>
+    <string name="retry">Retry</string>
+    <plurals name="numberOfSeasons">
+        <item quantity="one">%d season</item>
+        <item quantity="other">%d seasons</item>
+    </plurals>
+</resources>
